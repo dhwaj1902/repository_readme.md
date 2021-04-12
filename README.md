@@ -26,10 +26,9 @@
 </ul>
 
 <h2>YAY !!</h2>
-The readme.md and code for readme.md is displayed 🤩
-<br/>
-Edit the Code on right side and view preview of readme.md on left side.
-<br/>
-You can also change the theme of code window 😎
-<br/>
-After you done editing, you can copy the code and use it anywhere.
+<ul>
+<li>The readme.md and code for readme.md is displayed 🤩</li>
+<li>Edit the Code on right side and view preview of readme.md on left side.</li>
+<li>You can also change the theme of code window 😎</li>
+<li>After you done editing, you can copy the code and use it anywhere.</li>
+	</ul>
