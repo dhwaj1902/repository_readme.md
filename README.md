@@ -8,6 +8,7 @@
 <a href="http://repositorymd.netlify.app">
 	<h4>Demo</h4>
 </a>
+[Demo](https://repositorymd.netlify.app)
 <h2>How to Use</h2>
 <p>To fetch the readme.md 
 </p>
