@@ -4,6 +4,10 @@
 
 
 <h1 align="center">Repository.md</h1>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dhwaj1902.repository_readme.md" align="center" alt="Repository.md"/>
+</p>
 <h4>View and edit readme.md of public repository(s) on Github.</h4>
 <h3>
 <a href="https://repositorymd.netlify.app/">
