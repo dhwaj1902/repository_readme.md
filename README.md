@@ -38,5 +38,5 @@
 <li>The readme.md and code for readme.md is displayed 🤩</li>
 <li>Edit the Code on right side and view preview of readme.md on left side.</li>
 <li>You can also change the theme of code window 😎</li>
-<li>After you done editing, you can copy the code and use it anywhere.</li>
+<li>After you done editing, you can either copy the code and use it anywhere or download a readme.md file.</li>
 	</ul>
