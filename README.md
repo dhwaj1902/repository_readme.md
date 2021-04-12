@@ -5,6 +5,9 @@
 
 <h1 align="center">Repository.md</h1>
 <h4>View and edit readme.md of public repository(s) on Github.</h4>
+<a href="http://repositorymd.netlify.app">
+	<h4>Demo</h4>
+</a>
 <h2>How to Use</h2>
 <p>To fetch the readme.md 
 </p>
@@ -22,4 +25,8 @@
 
 <h2>YAY !!</h2>
 The readme.md and code for readme.md is displayed 🤩
+Edit the Code on right side and view preview of readme.md on left side.
+You can also change the theme of code window 😎
+After you done editing, you can copy the code and use it anywhere.
 
+<h4></h4>
