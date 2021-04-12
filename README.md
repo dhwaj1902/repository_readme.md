@@ -5,10 +5,9 @@
 
 <h1 align="center">Repository.md</h1>
 <h4>View and edit readme.md of public repository(s) on Github.</h4>
-<a href="http://repositorymd.netlify.app">
-	<h4>Demo</h4>
+<a href="https://repositorymd.netlify.app/">
+	Demo
 </a>
-[Demo](https://repositorymd.netlify.app)
 <h2>How to Use</h2>
 <p>To fetch the readme.md 
 </p>
