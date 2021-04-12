@@ -5,11 +5,11 @@
 
 <h1 align="center">Repository.md</h1>
 <h4>View and edit readme.md of public repository(s) on Github.</h4>
-<h4>
+<h3>
 <a href="https://repositorymd.netlify.app/">
 	Demo
 </a>
-	</h4>
+	</h3>
 <h2>How to Use</h2>
 <p>To fetch the readme.md 
 </p>
@@ -24,6 +24,10 @@
 <ul>
 <li>After filling above info about repository click on <strong>Fetch</strong> button.</li>
 </ul>
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/57860123/114356577-68274f00-9b8e-11eb-923d-a1bec01a59c6.png" align="center" alt="Repository.md"/>
+</p>
 
 <h2>YAY !!</h2>
 <ul>
