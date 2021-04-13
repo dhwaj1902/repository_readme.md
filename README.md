@@ -8,12 +8,15 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dhwaj1902.repository_readme.md" align="center" alt="Repository.md"/>
 </p>
+<a href="https://www.producthunt.com/posts/repository-md?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-repository-md" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=292027&theme=light" alt="Repository.md - A website to view and edit readme.md of Github Public Repo. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <h4>View and edit readme.md of public repository(s) on Github.</h4>
 <h3>
 <a href="https://repositorymd.netlify.app/">
 	Demo
 </a>
 	</h3>
+	
+
 <h2>How to Use</h2>
 <p>To fetch the readme.md 
 </p>
