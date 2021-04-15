@@ -33,7 +33,7 @@
 </ul>
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/57860123/114356577-68274f00-9b8e-11eb-923d-a1bec01a59c6.png" align="center" alt="Repository.md"/>
+	<img src="https://user-images.githubusercontent.com/57860123/114869092-3a533c00-9e14-11eb-8683-8a3d9daa6d90.png" align="center" alt="Repository.md"/>
 </p>
 
 <h2>YAY !!</h2>
