@@ -44,3 +44,9 @@
 <li>You can also change the theme of code window 😎</li>
 <li>After you done editing, you can either copy the code and use it anywhere or download a readme.md file.</li>
 	</ul>
+
+<h5 align="center">
+< Happy Learning />
+<br>
+<a href="https://githu.com/dhwaj1902">Dhwaj Gupta</a> | © 2021
+</h5>
